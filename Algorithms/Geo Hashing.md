@@ -176,5 +176,4 @@ https://www.youtube.com/watch?v=6uhSpLjGLgo
 
 https://www.movable-type.co.uk/scripts/geohash.html
 
-[[Quad Tree]]
 
